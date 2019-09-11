@@ -15,5 +15,6 @@ def parrot
   def change_my_name
     name = "Squawk"
     puts name.reverse
+    return name
   end
 end
