@@ -12,7 +12,7 @@ def parrot
     parrot ="Pretty bird!"
   end
 
-  def parrot
+  def change_my_name
     phrase = parrot("Pretty bird!")
   end
 end
